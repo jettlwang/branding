@@ -1,4 +1,6 @@
-# Luna branding
+![Luna logo](https://github.com/lunalabs/branding/raw/master/logo_color_trans_trimmed_100.png)
+
+----
 
 Luna branding, including logo and wordmark,
 in many color modes and sizes.
