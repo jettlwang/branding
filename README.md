@@ -9,22 +9,22 @@ All the sizes and cropped versions are generated from
 the following 14 master files:
 ```
 icon_bw_bg.png
-icon_bw_trans_cropped.png
+icon_bw_trans.png
 icon_color_bg.png
-icon_color_trans_cropped.png
+icon_color_trans.png
 icon_invcolor.png
 icon_wb_bg.png
-icon_wb_trans_cropped.png
+icon_wb_trans.png
 logo_bw_bg.png
-logo_bw_trans_cropped.png
+logo_bw_trans.png
 logo_color_bg.png
-logo_color_trans_cropped.png
+logo_color_trans.png
 logo_invcolor.png
 logo_wb_bg.png
-logo_wb_trans_cropped.png
+logo_wb_trans.png
 ```
-In general there are versions for any combination of icon|logo,
-bw|wb|color|invcolor, opaque|transparent, cropped|uncropped.
+In general there are versions for most combinations of icon|logo,
+bw|wb|color|invcolor, opaque|transparent, uncropped|trimmed|circle-cropped.
 However, some possible combinations of properties,
 like "uncropped with transparent background", have been
 omitted — in the case of "uncropped with transparent background"
