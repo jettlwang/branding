@@ -1,4 +1,4 @@
-![Luna logo](https://github.com/lunalabs/branding/raw/master/png/logo_color_framed_100.png)
+![Luna logo](https://github.com/lunalabs/branding/raw/master/png/logo_color_trimmed_64.png)
 
 ----
 
