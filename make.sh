@@ -23,4 +23,5 @@ do
 done
 
 # Create the favicon specially.
-cp png/icon_color_trimmed_16.png png/favicon.png
+cp png/icon_color_trimmed_16.png png/favicon16.png
+cp png/icon_color_trimmed_32.png png/favicon32.png
