@@ -22,12 +22,11 @@ $ ./make.sh
 
 ### Custom sizes
 You can easily modify the file `make.sh` to create PNG versions
-at whatever sizes you require. Sizes refer to the height of the
-output file in pixels, and the defaults are:
-16, 32, 64, 100, 150, 300, and 500. The `framed`
-and `circle` versions of the icon are square, but `trimmed`
-versions are not square at larger sizes. (The bounding box of
-the heart+moon shape is not a square.)
+at whatever sizes you require. Sizes refer to the height
+and width of the output file in pixels, and the defaults are:
+16, 32, 64, 100, 150, 300, and 500. The bounding box of the
+heart+moon shape is *barely* not a square, so at very large
+sizes (>500px at least) the output file will be not square.
 
 
 ### A note on the RSVG library
