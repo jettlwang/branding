@@ -22,6 +22,8 @@ do
     done
 done
 
-# Create the favicon specially.
+# Create the favicons specially.
 cp png/icon_color_trimmed_16.png png/favicon16.png
 cp png/icon_color_trimmed_32.png png/favicon32.png
+cp png/icon_color_trimmed_64.png png/favicon64.png
+convert -background none -size x96 svg/icon_color_trimmed.svg png/favicon96.png
